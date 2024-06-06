@@ -13,7 +13,7 @@ import 'zone.js';
   `,
 })
 export class App {
-  name = 'Carlo';
+  name = 'Carlo, the Angular Master';
 }
 
 bootstrapApplication(App);
